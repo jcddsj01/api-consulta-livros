@@ -8,7 +8,3 @@
 <strong>[PUT]/livros/id</strong>: Atualiza as informações com o seu ID cadastrado<br>
 <strong>[DELETE]/livros/id</strong>: Exclui o livro com o seu ID cadastrado<br>
 </p><br>
-
-<div align="center">
-<img  alt="GIF" src="img.png" width="1300px" height="700px" />
-</div>
