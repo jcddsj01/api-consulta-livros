@@ -1,6 +1,6 @@
 # API para Livros
 ## Feito com base no Canal do YouTube | Dev Aprender
-## Esse projeto foi criado um APP com o Framework Flask, ele é o servidor que vai estar hospedando a API. <br> As consultas, cadastro, atualização e exclusão são feitas com a ferramenta Postman.
+## Essa API consiste em um CRUD, onde é possível cadastrar <br> usuários e livros, ter acesso a esses dados, além de <br> editálos e excluí-los.
 
 
 <p><strong>[GET]/livros</strong>: Lista todos os livros cadastradas<br>
